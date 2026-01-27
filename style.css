@@ -1,5 +1,7 @@
 body{
     font-family: system-ui;
-    background-color: #F1357A;
+    max-width: 400px;
+    margin: auto;
+
 }
 
